@@ -11,3 +11,6 @@ source env/bin/activate
 
 ## Run Streamlit
 streamlit run cobastreamlit_AOTIZHONGXIN_Weather.py
+
+## Streamlit community cloud
+https://cobaapp-mf2bksleschez7lqp4slvw.streamlit.app/
