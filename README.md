@@ -10,4 +10,4 @@ virtualenv env
 source env/bin/activate
 
 ## Run Streamlit
-streamlit run 
+streamlit run cobastreamlit_AOTIZHONGXIN_Weather.py
