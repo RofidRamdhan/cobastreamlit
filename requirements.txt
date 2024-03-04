@@ -1,4 +1,4 @@
 streamlit==1.31.1   
 pandas<=2.2.1
 matplotlib<=3.8.3
-wind<=1.9.0
+windrose<=1.9.0
